@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Coding\C++\DataStructures-Algorithms\Sorting Algorithms\MergeSort-nlogn-runtime\MergeSort-nlogn-runtime\Source.cpp(56,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MergeSort-nlogn-runtime.vcxproj -> D:\Coding\C++\DataStructures-Algorithms\Sorting Algorithms\MergeSort-nlogn-runtime\x64\Debug\MergeSort-nlogn-runtime.exe
